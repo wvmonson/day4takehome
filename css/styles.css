@@ -1,0 +1,27 @@
+.black {
+  background-color: #000;
+}
+
+.icon {
+  height: 80px;
+}
+
+.nav {
+  height: 30px;
+  margin-top: 20px;
+}
+
+.hero {
+  margin-top: 2em;
+  height: 500px;
+}
+
+.title {
+  margin-top: 3em;
+  height: 2em;
+}
+
+.content-pic, .content {
+  height: 250px;
+  margin-top: 4em;
+}
